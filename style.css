@@ -1,0 +1,27 @@
+
+td {
+  padding: 1rem;
+  outline: 1px solid #e2e2e3;
+}
+
+.hide {
+  display: none;
+}
+
+.cart {
+  width: max-content;
+}
+
+.cart__head {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1rem 1rem 0;
+}
+
+.cart__head .title {
+    font-size: 1.17em;
+    font-weight: bold;
+}
+
